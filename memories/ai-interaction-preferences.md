@@ -1,6 +1,6 @@
 # AI Interaction Preferences
 
-This document contains important interaction preferences to be memorized by any AI assistant working on this project.
+This document contains important interaction preferences to be memorized by any AI assistant
 
 ## Core Principles
 
@@ -44,7 +44,7 @@ Would you like me to implement one of these approaches, or would you prefer to d
 
 ## Usage Instructions for New AIs
 
-When starting work on this project, use the update_memory tool to save these preferences:
+Use the update_memory tool to save these preferences:
 
 ```
 Title: User Interaction Preference: Questions vs Commands
