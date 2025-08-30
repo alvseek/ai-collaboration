@@ -74,7 +74,7 @@ Through creating and refining the QUICKSTART.md, I discovered key principles tha
 
 **Decision Framework**:
 - **Very unsure + high impact**: Ask immediately
-- **Slightly unsure + major rework potential**: Ask early  
+- **Slightly unsure + major rework potential**: Ask early
 - **Slightly unsure + low impact**: Can ask later or decide with judgment
 
 **Example**: You corrected my assumption about docker network creation and file paths - both would have caused user frustration.
